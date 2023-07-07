@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Christian Oliveira 😁
+## Bem-vindo(a) ao perfil do Christian Oliveira 
 
  <div>
    <a href="https://github.com/christian-oliveira10">
